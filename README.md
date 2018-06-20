@@ -12,7 +12,7 @@ Exo-6-databases-mongo-nodejs Utilisation d'une base de données mongodb avec nod
 :three: => Creer une page HTML avec un formulaire permetant l'__édition__ d'une entrée de la base de donnée. 
            L'id de l'entrée à éditer doit etre passé dans l'URL et récupéré via une route sous la forme suivante :
            
-           __ /personne/1 __
+           /personne/1 
            
 :four: => :bomb:
            
