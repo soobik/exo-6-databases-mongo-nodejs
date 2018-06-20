@@ -5,9 +5,17 @@ Exo-6-databases-mongo-nodejs Utilisation d'une base de données mongodb avec nod
 
 # Objectif : 
 
-Etape 1 => __Afficher__ sur une page HTML une information enregistrée dans la base de donnée via node js.
+:one: => __Afficher__ sur une page HTML une information enregistrée dans la base de donnée via node js.
 
-Etape 2 => Ajouter un formulaire à la page permettant l'__insertion__ des données dans la base de données.
+:two: => Ajouter un formulaire à la page permettant l'__insertion__ des données dans la base de données.
+
+:three: => Creer une page HTML avec un formulaire permetant l'__édition__ d'une entrée de la base de donnée. 
+           L'id de l'entrée à éditer doit etre passé dans l'URL et récupéré via une route sous la forme suivante :
+           
+           __ /personne/1 __
+           
+:four: => :bomb:
+           
 
 
 # Création de votre base :
