@@ -1,8 +1,11 @@
 # exo-6-databases-mongo-nodejs
+
 Exo-6-databases-mongo-nodejs Utilisation d'une base de données mongodb avec nodejs
 
 
-# Objectif : Afficher sur une page HTML une information enregistrée dans la base de donnée via node js.
+# Objectif : 
+
+Afficher sur une page HTML une information enregistrée dans la base de donnée via node js.
 
 
 # Création de votre base :
