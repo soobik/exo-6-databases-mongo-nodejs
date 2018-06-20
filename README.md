@@ -22,6 +22,6 @@ Si les inforations s'affichent vous pouvez commencer a coder votre application.
 
 # Infos : 
 
-URI de connexion a votre base : mongodb://localhost:127.0.0.1:27017/[votre prenom sans les crochets].
+URI de connexion a votre base : mongodb://localhost:27017/[votre prenom sans les crochets].
 
 
